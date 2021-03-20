@@ -1,5 +1,6 @@
-# sangu-env.github.io
-This repository for collaborating team of sangu environment
+# Sangu-Environment
+### _From Sangu group to World_
+
 
 ## _environment:_
 - Alga Marin Sabati
@@ -8,7 +9,7 @@ This repository for collaborating team of sangu environment
 - Hilman Maulana
 - Ikbal Ros Prayoga
 - Lalan Suhirlan
-- Moch Fikri Khoirurrizal
-- Rais Zainuri
+- [Moch Fikri Khoirurrizal](https://fikriwado.com)
+- [Rais Zainuri](https://raiszainuri.github.io)
 - Rizal Yusuf Ramdhani
 - Yayas Husni Mubarok
